@@ -1,11 +1,25 @@
-Hi there I'm [Arpit Mishra]
-Pursuing Master of Computer Applications (MCA)
-Aspiring AI/ML Engineer with a focus on Data Science
-Currently learning Python and its libraries (Pandas,Numpy), and Machine Learning concepts
-Building projects in Python
+## 👋 Hi there, I'm [Arpit Mishra](https://github.com/arpit99mi)
 
-Languages ---> C, C++, Python
-Libraries ---> Pandas, Numpy
+Aspiring *AI/ML Engineer* with a strong interest in *Data Science*.  
+Currently pursuing a *Master of Computer Applications (MCA)*.
 
-Let's connect --> arpit9990mishra@gmail.com  or 9990284723
+---
+
+### 💻 Tech Skills
+
+- *Languages:* C, C++, Python, SQL  
+- *Libraries:* Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- *Frameworks:* Visual Studio Code, Jupyter Notebook  
+- *Databases:* PostgreSQL, MySQL
+
+---
+
+### 🤝 Let's Connect
+
+- 📧 Email: [arpit9990mishra@gmail.com](mailto:arpit9990mishra@gmail.com)  
+- 🔗 LinkedIn: [Arpit Mishra](https://www.linkedin.com/in/arpit-mishra-a74084333)
+
+---
+
+> “The expert in anything was once a beginner.”
 
