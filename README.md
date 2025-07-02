@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm [Arpit Mishra](https://github.com/arpit99mi)
 
-Aspiring *AI/ML Engineer* with a strong interest in *Data Science*.  
+*AI/ML Engineer* in training with a strong interest in *Data Science*.  
 Currently pursuing a *Master of Computer Applications (MCA)*.
 
 ---
